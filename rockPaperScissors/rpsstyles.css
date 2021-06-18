@@ -1,0 +1,49 @@
+.centerAlgin{
+    text-align: center;
+}
+
+.playGround{
+    background-color: #0F4C75;
+    color: white;
+}
+
+.rulesGround{
+    color: #0F4C75;
+    font-family: "Ubuntu";
+}
+
+table, th, td {
+    border: 5px solid #0F4C75;
+    padding: 5px;
+  }
+
+.mainHead{
+    font-family: "Montserrat";
+    font-weight: 900;
+    padding: 7% 15%;
+}
+
+.player{
+    font-family: "Ubuntu";
+    font-weight: 600;
+}
+
+.playSec{
+    padding: 7% 15%;
+}
+
+.emo{
+    color: peru;
+}
+
+.rulesGround{
+    font-family: "Ubuntu";
+}
+
+.king{
+    color: #EBA83A;
+}
+
+.robo{
+    color: #DDDDDD;
+}

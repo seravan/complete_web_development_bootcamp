@@ -19,3 +19,7 @@ https://seravan.github.io/complete_web_development_bootcamp/rockPaperScissors/rp
 ### Project-5:
 Simon Game
 https://seravan.github.io/complete_web_development_bootcamp/simonGameChallenge/index.html
+
+### Project-6:
+News Letter Signup page
+https://floating-crag-17856.herokuapp.com/

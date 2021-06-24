@@ -21,5 +21,5 @@ Simon Game
 https://seravan.github.io/complete_web_development_bootcamp/simonGameChallenge/index.html
 
 ### Project-6:
-News Letter Signup page
+News Letter Signup page made using nodejs and deployed on heroku
 https://floating-crag-17856.herokuapp.com/
